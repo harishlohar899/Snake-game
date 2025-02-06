@@ -1,7 +1,3 @@
-//96% of storage used … If you run out, you can't create, edit and upload files. Get 30 GB of storage for ₹59.00 ₹15.00/month for 3 months.
-//Techno Avishkar
-//with the help of Viral Science
-//copy and paste this coding in programming softwere 
 
 #include "LedControl.h" // LedControl library is used for controlling a LED matrix. Find it using Library Manager or download zip here: https://github.com/wayoda/LedControl
 
